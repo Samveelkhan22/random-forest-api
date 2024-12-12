@@ -23,10 +23,14 @@ Install the following dependencies before running the app:
 - pydantic
 - ngrok (optional, for public access)
 
+---
+
 ## API Endpoint
 - POST /predict/
 
+---
+
 ## Testing the API
--Use a tool like `Postman` or `curl` to test the API.
+- Use a tool like `Postman` or `curl` to test the API.
 
 
